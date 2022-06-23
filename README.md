@@ -1,7 +1,7 @@
-# Brooklyn
+# Brooklyn Scintillating Fibres Hodoscope
 A Geant4 simulation of a 16-plane hodoscope of scintillating fibres with different sizes, hit by muons at MIP with an angle of 40 degree wrt the surface.
 
-The geometry of the detector is inspired to Brooklyn, a scintillating fibres hodoscope in the Marconi building's Educational laboratory of the Sapienza University.
+The geometry of the detector is inspired to Brooklyn, a scintillating fibres hodoscope in the Marconi Building Educational Laboratory of the Sapienza University's Physics Department.
 
 The detector is a 16mmx17.6mmx20cm parallelepiped made by 16 planes of polystyrene scintillating fibres (scintillation was not implemented). Up and down the fibres a mylar sheet was placed, and between the fibres there ara some plystyrene supports.
 The fibres are squared, except for the ones in channel 2,3,12,13, that are circular. The sizes (side for the squared ones and diameter for the circulare ones) of the fibres are, for channel 0 to 15 : (1mm, 1mm, 0.5mm, 0.5mm, 0.25mm, 0.25mm, 0.2mm, 0.2mm, 0.2mm, 0.25mm, 0.25mm, 0.25mm, 0.5mm, 0.5mm, 1mm, 1mm) 
