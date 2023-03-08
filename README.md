@@ -10,4 +10,4 @@ The muons are randomly shot with G4ParticleGun at a 40 degree angle with the sur
 
 The simulation gives in output a file called stuff.txt where you can read the energy released on a fibre step by step. Cleaner.cpp, a c++ program in the cleaner+pythonDataAnalysis folder, can read this output file and give another file with the energy released on the 16 channels event by event. In the same folder you can find a small python notebook written for the data analysis.
 
-Credits : Francesco Artibani (mail : artibani.1727820@studenti.uniroma1.it), Francesco Clozza (mail : clozza1792595@studenti.uniroma1.it)
+Credits : Francesco Artibani (mail : artibani.1727820@studenti.uniroma1.it), Francesco Clozza (mail : clozza.1792595@studenti.uniroma1.it)
